@@ -46,6 +46,3 @@ The VectorDBQA from LangChain is used for question-answering. The system takes t
 - Ensure that you have set up the OpenAI API key properly for the embeddings to work.
 - Make sure that the required Python dependencies are installed before running the system.
 - The system may work with additional document types by extending the document loaders accordingly.
-
-
-Please note that this README is a general template, and you may need to modify it to match the actual structure of your repository and add more specific information about the LangChain library and other implementation details.
